@@ -17,9 +17,6 @@ basic_info:
     # Sidebar links
     email: caoshuyuan.bcn@gmail.com
     location: Barcelona, Spain
-    github: Asanchez-2
-    twitter: '@Asanchez_2'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
 
     languages:
       -idiom: Chinese
