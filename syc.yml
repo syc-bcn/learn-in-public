@@ -1,0 +1,45 @@
+
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+
+    # Profile information
+    first_name: Shuyuan
+    last_name: Cao
+    motto: Data Scientist (in progress)
+    summary: |
+      I am passionate about new technologies and I am always willing to learn something new every single day.
+      Currently I am studying a Data Science bootcamp during which I am learning to improve my logical thinking and develop several data science projects.
+    # Sidebar links
+    email: caoshuyuan.bcn@gmail.com
+    location: Barcelona, Spain
+    github: Asanchez-2
+    twitter: '@Asanchez_2'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    languages:
+      -idiom: Chinese
+        level: Native
+
+      - idiom: Spanish
+        level: Advanced
+
+      - idiom: English
+        level: Advanced
+
+    interests:
+      - item: Coffee
+
+      - item: Coding
+
+      - item: Traveling
+
+education:
+    - degree: Data Science Bootcamp
+      university: 4Geeks Academy
+      time: 2026 - present
+      
